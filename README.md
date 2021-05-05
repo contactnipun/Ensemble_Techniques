@@ -52,9 +52,9 @@ Steps and tasks:
 2. Eye-balling raw data to get a feel of the data in terms of number of records, structure of the file, number of attributes, types of attributes and a general idea of likely challenges in the dataset.
 3. Using univariate & bivariate analysis to check the individual attributes for their basic statistics such as central values, spread, tails, relationships between variables etc. mention your observations
 4. Splitting the dataset into training and test set in the ratio of 70:30 (Training:Test)
-5. Preparing the data for training - Scale the data if necessary, get rid of missing values (if any) etc.
-6. Training at least 3 standard classification algorithms - Logistic Regression, Naive Bayes’, SVM, k-NN etc, and note down their accuracies on the test data.
+5. Preparing the data for training - Scaling the data if necessary, get rid of missing values (if any) etc.
+6. Training with standard classification algorithms - Logistic Regression, Naive Bayes’, SVM, k-NN etc, and note down their accuracies on the test data.
 7. Training a meta-classifier and note the accuracy on test data.
-8. Training at least one standard Ensemble model - Random forest, Bagging, Boosting etc, and note the accuracy
+8. Training standard Ensemble models - Random forest, Bagging, Boosting etc, and note the accuracy
 9. Comparing all the models and picking the best one among them 
 
